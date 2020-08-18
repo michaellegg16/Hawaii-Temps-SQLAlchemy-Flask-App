@@ -2,7 +2,9 @@
 
 ### Task
 
-* Design a Flask App capable of providing basic weather analysis (Highs, Lows, Avgs, etc.) for Honolulu, Hawaii.
+* Explore the "hawaii.sqlite" database and create a Flask App that can be used for weather analysis.
+
+#### Step 1:
 * Use Python and SQLAlchemy to do basic climate analysis and data exploration of the climate database ("hawaii.sqlite").
 
 * Precipiation Analysis
@@ -38,4 +40,7 @@
   
   ![stations-histogram](https://github.com/michaellegg16/sqlalchemy-challenge/blob/master/Images/station-histogram.png)
   
-  
+##### Step 2:
+* Design a Flask App capable of providing basic weather analysis (Highs, Lows, Avgs, etc.) for Honolulu, Hawaii.
+
+* 
