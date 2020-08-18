@@ -88,4 +88,16 @@
   
   
   
-  
+## Instructions
+
+1. In order to run this code make sure that you have the proper dependencies installed.
+1. If you want, run the jupyter notebook to view the data exploration and precipitation graph.
+1. To run the flask app, navigate the the directory with the "app.py" file.
+1. Type "python app.py" in your terminal.
+1. A test server should start running. Click the link to go to the home page.
+1. Once at the home page, you can navigate the the page you want to use for analysis by using the provided url routes.
+
+
+## Conclusion
+
+Based on this analysis Honolulu, Hawaii seems to host both a temperate and consistent climate with averages staying around 70 degrees fahrenheit year-round. However, more analysis into the precipitation is needed to have a more full picture of the climate. This project is limitied in scope and while the temperatures seem ideal for vacation, the high precipitation around the year could be a cause for concern as it seems highly unpredictable and subject to spikes based on the graphs created. Additionally, humidity would be a concern for myself, and this analysis does not provide any information about humidity. This project does a great job of using SQLAlchemy and Flask to create a live app capable of analysis, but the analysis itself is fairly simplistic and only provides a glimpse into the whole climate of Honolulu. 
